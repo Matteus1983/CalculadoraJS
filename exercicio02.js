@@ -1,4 +1,5 @@
 // A soma dos dois números;
+
 let numberOne= prompt('Digíte um número!')
 let numberTwo = prompt('Digíte outro número!')
 
@@ -24,9 +25,10 @@ if (sum % 2 == 0) {
 } else (
     alert('O número é Impar')
 )
-// Verifique se os dois números inseridos são iguais (ou diferentes).
+// Verifique se os dois números inseridos são iguais (ou diferentes);
+
 if ( numberOne != numberTwo) {
-    alert(' Os números são difentes')
+    alert('Os números são difentes')
 } else {
     alert('Os números são iguais')
 }
