@@ -28,7 +28,7 @@ if (sum % 2 == 0) {
 // Verifique se os dois números inseridos são iguais (ou diferentes);
 
 if ( numberOne != numberTwo) {
-    alert('Os números são difentes')
+    alert('Os números são diferentes')
 } else {
     alert('Os números são iguais')
 }
